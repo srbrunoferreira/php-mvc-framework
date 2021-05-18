@@ -1,2 +1,0 @@
-composer require nunomaduro/phpinsights --dev
-./vendor/bin/phpinsights
