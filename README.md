@@ -88,7 +88,7 @@ private static array $shortcode = [
   '{string}' => '(?!.*\ {2})[a-z][a-z ]{3,255}'
 ];
 ```
-You can add more shortocdes following the structure above according to your need.
+You can add more shortcodes following the structure above according to your need.
 
 ## The config.php file
 The config.php is located in app/config.php and it stores important data such as the database credentials.
